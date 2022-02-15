@@ -1,16 +1,21 @@
 {
-  "name": "fake-twitter-app",
+  "name": "social-network-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "social network app",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jonathan Jefferies",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.1"
   }
 }
