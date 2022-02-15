@@ -1,127 +1,127 @@
 const thoughts = [
   {
-    thoughtText: "NoSQL is super easy",
-    username: "bobsmith",
+    thoughtText: "What shall we do for a party?",
+    username: "jonathanjefferies",
     reactions: [
       {
-        reactionBody: "Yes I agree with you!!",
-        username: "jackswift",
+        reactionBody: "Bouncy Castle!!",
+        username: "kimberleyjefferies",
       },
       {
-        reactionBody: "Yup agree",
-        username: "carolbaracat",
+        reactionBody: "Yes Please",
+        username: "ellenjefferies",
       },
       {
-        reactionBody: "I am struggling with NoSQL",
-        username: "gracekelly",
+        reactionBody: "Me Too :-)",
+        username: "hannahjefferies",
       },
     ],
   },
   {
-    thoughtText: "NoSQL is killing me",
-    username: "gracekelly",
+    thoughtText: "What Jigsaw should we play?",
+    username: "kimberleyjefferies",
     reactions: [
       {
-        reactionBody: "Yes, it is!!",
-        username: "tonyjunior",
+        reactionBody: "Animals!!",
+        username: "jonathanjefferies",
       },
       {
-        reactionBody: "Really??",
-        username: "carolbaracat",
+        reactionBody: "The Beach??",
+        username: "ellenjefferies",
       },
       {
-        reactionBody: "I don't think so!!",
-        username: "bobsmith",
+        reactionBody: "I decided Dinosaurs!!",
+        username: "hannahjefferies",
       },
     ],
   },
   {
-    thoughtText: "I love churros!!",
-    username: "bobsmith",
+    thoughtText: "What shall we do today!!",
+    username: "ellenjefferies",
     reactions: [
       {
-        reactionBody: "Me too!!",
-        username: "jackswift",
+        reactionBody: "A walk!!",
+        username: "jonathanjefferies",
       },
       {
-        reactionBody: "I just hate them!!",
-        username: "carolbaracat",
+        reactionBody: "A play center!!",
+        username: "hannahjefferies",
       },
       {
-        reactionBody: "Best desert ever!!",
-        username: "tonyjunior",
+        reactionBody: "A food shop!!",
+        username: "kimberleyjefferies",
       },
     ],
   },
   {
     thoughtText: "I am so tired today...",
-    username: "gracekelly",
+    username: "hannahjefferies",
     reactions: [
       {
         reactionBody: "You need to rest!!",
-        username: "carolbaracat",
+        username: "kimberleyjefferies",
       },
       {
-        reactionBody: "Why??",
-        username: "bobsmith",
+        reactionBody: "What time is it??",
+        username: "jonathanjefferies",
       },
       {
         reactionBody: "I am missing my bed too!!",
-        username: "jackswift",
+        username: "ellenjefferies",
       },
     ],
   },
   {
-    thoughtText: "I hate stupid people!!",
-    username: "jackswift",
+    thoughtText: "I hate mondays!",
+    username: "jonathanjefferies",
     reactions: [
       {
-        reactionBody: "Take easy!!!!",
-        username: "jackswift",
+        reactionBody: "Me too!!",
+        username: "kimberley",
       },
       {
-        reactionBody: "What happened?",
-        username: "gracekelly",
+        reactionBody: "I like nursery",
+        username: "hannahjefferies",
       },
       {
-        reactionBody: "Hope you are fine!!",
-        username: "tonyjunior",
+        reactionBody: "I like school!!",
+        username: "ellenjefferies",
       },
     ],
   },
   {
-    thoughtText: "It's Friday night!!!",
-    username: "jackswift",
+    thoughtText: "Can't wait for the weekend!!!",
+    username: "kimberleyjefferies",
     reactions: [
       {
         reactionBody: "Where are we going to?",
-        username: "carolbaracat",
+        username: "jonathanjefferies",
       },
       {
-        reactionBody: "Yup I love Fridays",
-        username: "tonyjunior",
+        reactionBody: "Holiday to Nanny's?",
+        username: "hannahjefferies",
       },
       {
-        reactionBody: "I will work till late today...",
-        username: "bobsmith",
+        reactionBody: "I'm hungry!",
+        username: "ellenjefferies",
       },
     ],
   },
   {
-    thoughtText: "I am very happy today!!",
-    username: "carolbaracat",
+    thoughtText: "Whats for Dinner today?",
+    username: "ellenjefferies",
     reactions: [
       {
-        reactionBody: "Yuhuu!!",
-        username: "bobsmith",
+        reactionBody: "Pizza!!",
+        username: "jonathanjefferies",
       },
       {
-        reactionBody: "Enjoy your moment!!",
-        username: "tonyjunior",
+        reactionBody: "Fish and Chips!!",
+        username: "hannahjefferies",
       },
       {
-        reactionBody: "That's great!!",
-        username: "gracekelly",
+        reactionBody: "Roast is in the oven!!",
+        username: "kimberleyjefferies",
       },
     ],
   },
@@ -140,42 +140,6 @@ const thoughts = [
       {
         reactionBody: "I am struggling with my homework",
         username: "carolbaracat",
-      },
-    ],
-  },
-  {
-    thoughtText: "Today is my birthday!!!",
-    username: "carolbaracat",
-    reactions: [
-      {
-        reactionBody: "Happy birthday sweet!!!!!",
-        username: "jackswift",
-      },
-      {
-        reactionBody: "All the best!!",
-        username: "tonyjunior",
-      },
-      {
-        reactionBody: "Let's celebrate!!!!",
-        username: "gracekelly",
-      },
-    ],
-  },
-  {
-    thoughtText: "I've been promoted!!!",
-    username: "tonyjunior",
-    reactions: [
-      {
-        reactionBody: "Let's party!!!!!",
-        username: "bobsmith",
-      },
-      {
-        reactionBody: "So, are you paying the drinks?",
-        username: "jackswift",
-      },
-      {
-        reactionBody: "I am very happy for you!!",
-        username: "gracekelly",
       },
     ],
   },
