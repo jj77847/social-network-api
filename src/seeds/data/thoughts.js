@@ -143,6 +143,24 @@ const thoughts = [
       },
     ],
   },
+  {
+    thoughtText: "Feed Me!!!",
+    username: "spikejefferies",
+    reactions: [
+      {
+        reactionBody: "Sorry I forgot!!",
+        username: "jonathanjefferies",
+      },
+      {
+        reactionBody: "Can I feed him??",
+        username: "ellenjefferies",
+      },
+      {
+        reactionBody: "Need to shop for cat food",
+        username: "kimberleyjefferies",
+      },
+    ],
+  },
 ];
 
 module.exports = thoughts;
