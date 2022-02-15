@@ -63,6 +63,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Links
 
-GitHub:
+GitHub: https://github.com/jj77847/social-network-api
 
 Video:
