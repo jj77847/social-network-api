@@ -19,5 +19,13 @@
     "express.js": "^1.0.0",
     "mongodb": "^4.3.1",
     "mongoose": "^6.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj77847/social-network-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jj77847/social-network-api/issues"
+  },
+  "homepage": "https://github.com/jj77847/social-network-api#readme"
 }
