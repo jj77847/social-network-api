@@ -65,4 +65,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 GitHub: https://github.com/jj77847/social-network-api
 
-Video:
+Video: todo
